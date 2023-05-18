@@ -1,5 +1,5 @@
 html {
-  background-color: rgb(120, 120, 120);
+  background-color: #365f69;
   background-image: none;
   color: #fff;
   font-family: "Quicksand", sans-serif;
@@ -95,7 +95,7 @@ a {
 }
 .picture-shadow {
   border-radius: 290486px;
-  background-image: radial-gradient(#000 0%, rgba(0, 0, 0, 0) 70%);
+  background-image: none
   position: absolute;
   top: 10%;
 }
